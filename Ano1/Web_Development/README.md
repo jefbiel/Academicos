@@ -1,3 +1,2 @@
-# Storytelling e Inspiração Empreendedora
-Atividades e materiais sobre narrativa e inspiração empreendedora.
-
+# Web Development
+Projetos e exercícios da disciplina de Desenvolvimento Web.
